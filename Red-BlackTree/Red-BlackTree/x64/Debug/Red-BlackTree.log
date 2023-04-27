@@ -1,0 +1,5 @@
+﻿  Red-BlackTree.cpp
+C:\Users\nikol\source\repos\Red-BlackTree\Red-BlackTree\Red-BlackTree.cpp(7,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\nikol\source\repos\Red-BlackTree\Red-BlackTree\Red-BlackTree.cpp(10,18): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\nikol\source\repos\Red-BlackTree\Red-BlackTree\Red-BlackTree.cpp(15,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Red-BlackTree.vcxproj -> C:\Users\nikol\source\repos\Red-BlackTree\x64\Debug\Red-BlackTree.exe
